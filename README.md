@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divya15v90
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning bash and python
+- 🌱 I’m currently a Cybersecurity professional
 - 💞️ I’m looking to collaborate on latest technologies
 - 📫 How to reach me divya15v90@gmail.com
 
